@@ -61,8 +61,7 @@ Better AI accuracy
 Mobile app integration
 Battery optimization
 🤝 Contributors
-Ishaan Maheshwari (VLSI)
-Bhavyya Mehta (IIoT)
+Ishaan Maheshwari (VLSI)    
 Sidhu Kumar (VLSI)
 📜 License
 
